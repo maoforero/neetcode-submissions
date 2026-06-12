@@ -75,3 +75,4 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ⚡ Problem | 🥋 Difficulty | 🛠️ Language | 📜 Solution | 📅 Date |
 | :--- | :--- | :--- | :--- | :--- |
 | [L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038) | 7-kyu | go | [Solution](codewars/go/7-kyu/l1-set-alarm.go) | 10/6/2026 |
+| [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | 7-kyu | csharp | [Solution](codewars/csharp/7-kyu/two-to-one.cs) | 12/6/2026 |
