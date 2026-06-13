@@ -3,9 +3,9 @@ class Solution
   public static int Stray(int[] numbers)
   {
     for(int i = 0; i < numbers.Length; i++){
-      var first = numbers[i];
-      var midd  = numbers[i+1];
-      var limit = numbers[i+2];
+      int first = numbers[i];
+      int midd  = numbers[i+1];
+      int limit = numbers[i+2];
       
       if(first != midd && midd != limit)
         return midd;
