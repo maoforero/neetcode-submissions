@@ -78,3 +78,4 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | 7-kyu | csharp | [Solution](codewars/csharp/7-kyu/two-to-one.cs) | 12/6/2026 |
 | [L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038) | 7-kyu | csharp | [Solution](codewars/csharp/7-kyu/l1-set-alarm.cs) | 12/6/2026 |
 | [Find the stray number](https://www.codewars.com/kata/57f609022f4d534f05000024) | 7-kyu | csharp | [Solution](codewars/csharp/7-kyu/find-the-stray-number.cs) | 13/6/2026 |
+| [Find the stray number](https://www.codewars.com/kata/57f609022f4d534f05000024) | 7-kyu | csharp | [Solution](codewars/csharp/7-kyu/find-the-stray-number.cs) | 13/6/2026 |
