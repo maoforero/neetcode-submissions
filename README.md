@@ -81,3 +81,4 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [Find the stray number](https://www.codewars.com/kata/57f609022f4d534f05000024) | 7-kyu | csharp | [Solution](codewars/csharp/7-kyu/find-the-stray-number.cs) | 13/6/2026 |
 | [Beginner Series #4 Cockroach](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6) | 7-kyu | csharp | [Solution](codewars/csharp/7-kyu/beginner-series-4-cockroach.cs) | 13/6/2026 |
 | [Grasshopper - Terminal game move function](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2) | 7-kyu | csharp | [Solution](codewars/csharp/7-kyu/grasshopper-terminal-game-move-function.cs) | 13/6/2026 |
+| [Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | 7-kyu | csharp | [Solution](codewars/csharp/7-kyu/invert-values.cs) | 14/6/2026 |
