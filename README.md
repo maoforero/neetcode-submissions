@@ -83,3 +83,4 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [Grasshopper - Terminal game move function](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2) | 7-kyu | csharp | [Solution](codewars/csharp/7-kyu/grasshopper-terminal-game-move-function.cs) | 13/6/2026 |
 | [Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | 7-kyu | csharp | [Solution](codewars/csharp/7-kyu/invert-values.cs) | 14/6/2026 |
 | [Bin to Decimal](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334) | 7-kyu | csharp | [Solution](codewars/csharp/7-kyu/bin-to-decimal.cs) | 16/6/2026 |
+| [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/student-s-final-grade.cs) | 16/6/2026 |
