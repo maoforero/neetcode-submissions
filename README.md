@@ -87,3 +87,4 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/sum-arrays.cs) | 16/6/2026 |
 | [Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014) | 7-kyu | csharp | [Solution](codewars/csharp/7-kyu/third-angle-of-a-triangle.cs) | 18/6/2026 |
 | [How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/how-good-are-you-really.cs) | 18/6/2026 |
+| [Grasshopper - Debug sayHello](https://www.codewars.com/kata/5625618b1fe21ab49f00001f) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/grasshopper-debug-sayhello.cs) | 18/6/2026 |
