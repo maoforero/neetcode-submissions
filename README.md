@@ -85,3 +85,4 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [Bin to Decimal](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334) | 7-kyu | csharp | [Solution](codewars/csharp/7-kyu/bin-to-decimal.cs) | 16/6/2026 |
 | [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/student-s-final-grade.cs) | 16/6/2026 |
 | [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/sum-arrays.cs) | 16/6/2026 |
+| [Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014) | 7-kyu | csharp | [Solution](codewars/csharp/7-kyu/third-angle-of-a-triangle.cs) | 18/6/2026 |
