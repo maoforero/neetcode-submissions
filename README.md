@@ -92,3 +92,4 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/get-the-middle-character.cs) | 19/6/2026 |
 | [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/sort-numbers.cs) | 19/6/2026 |
 | [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/sort-numbers.cs) | 19/6/2026 |
+| [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/keep-up-the-hoop.cs) | 19/6/2026 |
