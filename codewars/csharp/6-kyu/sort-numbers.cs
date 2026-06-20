@@ -3,9 +3,7 @@ using System.Linq;
 public class Kata
 {
   public static int[] SortNumbers(int[] nums)
-    => nums is null 
-    ? System.Array.Empty<int>()
-    : nums.OrderBy(n => n).ToArray();
+    => nums is null ? new int[0] : nums.OrderBy(x => x).ToArray();
 }
 namespace Solution 
 {
