@@ -90,3 +90,4 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [Grasshopper - Debug sayHello](https://www.codewars.com/kata/5625618b1fe21ab49f00001f) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/grasshopper-debug-sayhello.cs) | 18/6/2026 |
 | [Grasshopper - Debug sayHello](https://www.codewars.com/kata/5625618b1fe21ab49f00001f) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/grasshopper-debug-sayhello.cs) | 18/6/2026 |
 | [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/get-the-middle-character.cs) | 19/6/2026 |
+| [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/sort-numbers.cs) | 19/6/2026 |
