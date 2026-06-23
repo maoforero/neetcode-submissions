@@ -93,3 +93,4 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/sort-numbers.cs) | 19/6/2026 |
 | [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/sort-numbers.cs) | 19/6/2026 |
 | [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/keep-up-the-hoop.cs) | 19/6/2026 |
+| [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/convert-a-string-to-a-number.cs) | 22/6/2026 |
