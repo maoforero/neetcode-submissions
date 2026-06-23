@@ -95,3 +95,4 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/keep-up-the-hoop.cs) | 19/6/2026 |
 | [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/convert-a-string-to-a-number.cs) | 22/6/2026 |
 | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/duplicate-encoder.cs) | 23/6/2026 |
+| [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/dna-to-rna-conversion.cs) | 23/6/2026 |
