@@ -97,3 +97,4 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/duplicate-encoder.cs) | 23/6/2026 |
 | [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/dna-to-rna-conversion.cs) | 23/6/2026 |
 | [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/count-of-positives-sum-of-negatives.cs) | 24/6/2026 |
+| [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://www.codewars.com/kata/56efc695740d30f963000557) | 6-kyu | csharp | [Solution](codewars/csharp/6-kyu/alternating-case-alternating-case.cs) | 25/6/2026 |
